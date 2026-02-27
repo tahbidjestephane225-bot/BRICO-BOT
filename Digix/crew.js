@@ -74,7 +74,7 @@ async function connectToWhatsapp(handleMessage) {
 ╔══════════════════╗
       *DigiX Bot Connected Successfully* 🚀
 ╠══════════════════╣
-> "Always Forward. Digital Crew, one of the best."
+> "Always Forward. BRICO LE BOSS, one of the best."
 ╚══════════════════╝
 
 *BRICO BOT*
