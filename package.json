@@ -1,7 +1,7 @@
 {
   "name": "BRICO BOT",
   "version": "1.0.0",
-  "description": "Digital Crew WhatsApp Bot — a powerful, fun and intelligent bot packed with extra features, AI capabilities and a sleek futuristic design",
+  "description": "BRICO BOT WhatsApp Bot — a powerful, fun and intelligent bot packed with extra features, AI capabilities and a sleek futuristic design",
   "main": "index.js",
   "type": "module",
   "scripts": {
